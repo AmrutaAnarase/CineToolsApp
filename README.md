@@ -4,13 +4,16 @@
 
 With this Depth of Field calculator, you can calculate the DoF distance with near-far limits and Hyperfocal distance with near limit. You can select the camera sensor type from the list, enter the focal length of the lens, select F-stop/aperture, enter the subject distance and you'll get all the results.
 
-***Also, it is completely free- I mean completely. Get it from App Store, now!***
+***Also, it is completely free- I mean completely!!!*** 
+
+Get it now:
+
+[![App Store Link](https://github.com/AmrutaAnarase/CineToolsApp/blob/master/AppStore.svg)](https://apps.apple.com/in/app/cinetools/id6497949806)
 
 [App Privacy Policy](https://amrutaanarase.github.io/CineToolsApp/PrivacyPolicy) 
 
 [App Support](https://amrutaanarase.github.io/CineToolsApp/Support) 
 
-<br/><br/>
 <br/><br/>
 <br/><br/>
 
