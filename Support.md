@@ -1,0 +1,3 @@
+CineTools- Support Page
+
+I tried hard to make this app very simple and straight forward, but still if you've any questions, doubts then please feel free to write me at: cinetools.contact@gmail.com
